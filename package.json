@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "download": "rgi-libretro thumbnail psx"
+  },
+  "devDependencies": {
+    "@guoyunhe/rgi-libretro": "^0.0.2"
+  }
+}
